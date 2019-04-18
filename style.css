@@ -1,0 +1,10 @@
+canvas {
+    display: block;
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    display: inline-block;
+    width: 200px;
+}
